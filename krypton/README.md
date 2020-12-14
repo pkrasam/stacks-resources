@@ -14,7 +14,7 @@ You can find the script [here](fetch-stacks-node-info.sh)
 
 When you execute the script the expected output is as such:
 
-```
+```bash
 ###############
 # Stacks Node #
 ###############
