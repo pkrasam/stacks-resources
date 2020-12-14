@@ -1,1 +1,1 @@
-# stacks-resources
+# Stacks Resources
