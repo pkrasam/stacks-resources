@@ -60,3 +60,4 @@ curl http://localhost:20443/v2/info
   "exit_at_block_height": 5130
 }
 ```
+[API Reference](https://blockstack.github.io/stacks-blockchain-api/#operation/get_core_api_info)
