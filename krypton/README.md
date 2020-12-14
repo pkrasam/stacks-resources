@@ -10,7 +10,7 @@ A set of scripts to help automate some of the DevOps.
 
 This script fetches the node info from the official node and my local node.
 
-You can find the script [here](fetch-stacks-node-info.sh)
+You can find the bash script [here](fetch-stacks-node-info.sh) and API reference [here](https://blockstack.github.io/stacks-blockchain-api/#operation/get_core_api_info)
 
 When you execute the script the expected output is as such:
 
@@ -60,4 +60,3 @@ curl http://localhost:20443/v2/info
   "exit_at_block_height": 5130
 }
 ```
-[API Reference](https://blockstack.github.io/stacks-blockchain-api/#operation/get_core_api_info)
